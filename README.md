@@ -1,8 +1,12 @@
 # interesting-papers
 
 
+### Decetralized Capital Markets
+- [Advancing Capital Markets with Blockchain](https://pages.consensys.net/advancing-capital-markets-with-blockchain-technology)
+
 ### DeFi Projects
 - [Aave_V3_Technical_Paper](https://github.com/faust-network/interesting-papers/files/8784388/Aave_V3_Technical_Paper.pdf)
+- [Compound.Whitepaper.pdf](https://github.com/faust-network/interesting-papers/files/8784549/Compound.Whitepaper.pdf)
 - [Euler Finance Whitepaper](https://docs.euler.finance/getting-started/white-paper)
 
 ### Analysis
