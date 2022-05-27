@@ -1,7 +1,7 @@
 # interesting-papers
 
 
-### DeFi Project Papers
+### DeFi Projects
 - [Aave_V3_Technical_Paper](https://github.com/faust-network/interesting-papers/files/8784388/Aave_V3_Technical_Paper.pdf)
 - [Euler Finance Whitepaper](https://docs.euler.finance/getting-started/white-paper)
 
